@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0412-fizz-buzz) |
+| [3612-process-string-with-special-operations-i](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0412-fizz-buzz) |
+| [3612-process-string-with-special-operations-i](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
