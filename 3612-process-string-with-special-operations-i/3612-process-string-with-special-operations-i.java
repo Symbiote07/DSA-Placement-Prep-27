@@ -7,7 +7,7 @@ class Solution {
         for(int i=0;i<l;i++)
         {
             ch=s.charAt(i);
-            if(Character.isLowerCase(ch)== true)
+            if(Character.isLowerCase(ch))
             {
                 result.append(ch);
 
@@ -28,6 +28,7 @@ class Solution {
                 result.reverse();
 
             }
+
         }
         return result.toString();
     }
