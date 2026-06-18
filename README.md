@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0231-power-of-two) |
