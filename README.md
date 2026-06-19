@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0412-fizz-buzz](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0412-fizz-buzz) |
+| [1768-merge-strings-alternately](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1768-merge-strings-alternately) |
 | [3612-process-string-with-special-operations-i](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0189-rotate-array) |
+| [1768-merge-strings-alternately](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
