@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
