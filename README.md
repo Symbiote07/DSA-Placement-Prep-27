@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0412-fizz-buzz) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1344-angle-between-hands-of-a-clock) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
