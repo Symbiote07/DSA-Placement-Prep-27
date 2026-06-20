@@ -1,13 +1,12 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        if(n==0)
+        if (n <= 0)
+            return false;
+
+        if (1073741824 % n == 0)
+            return true;
+
         return false;
-        int ans=1;
-        int range= (int) Math.pow(2,30);
-        while(ans<n && n<=range){
-            ans=ans*2;
-        }
-        return ans ==n;
         
 
 
