@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
