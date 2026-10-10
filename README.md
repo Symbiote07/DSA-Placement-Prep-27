@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0069-sqrtx) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0326-power-of-three) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0206-reverse-linked-list) |
 ## Bracket Sequences
 |  |
