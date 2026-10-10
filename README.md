@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0268-missing-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,4 +154,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0605-can-place-flowers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
