@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0268-missing-number) |
 | [0605-can-place-flowers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0704-binary-search) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1833-maximum-ice-cream-bars) |
