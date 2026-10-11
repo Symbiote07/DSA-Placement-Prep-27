@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
