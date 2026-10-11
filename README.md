@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Symbiote07/DSA-Placement-Prep-27/tree/master/0876-middle-of-the-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
